@@ -1,19 +1,6 @@
-Linux kernel
-============
-
-There are several guides for kernel developers and users. These guides can
-be rendered in a number of formats, like HTML and PDF. Please read
-Documentation/admin-guide/README.rst first.
-
-In order to build the documentation, use ``make htmldocs`` or
-``make pdfdocs``.  The formatted documentation can also be read online at:
-
-    https://www.kernel.org/doc/html/latest/
-
-There are various text files in the Documentation/ subdirectory,
-several of them using the Restructured Text markup notation.
-See Documentation/00-INDEX for a list of what is contained in each file.
-
-Please read the Documentation/process/changes.rst file, as it contains the
-requirements for building and running the kernel, and information about
-the problems which may result by upgrading your kernel.
+Sorry to make a pull request like this. But I didnt saw anyway to pull a issue point here. (I am not used to with Github yet)
+I was cloning this kernel source to build a custom nethunter kernel for my Redmi 8
+It was not working with Git Clone then I found out there is some file with uppercase and lowercase file with same name that might causing the issue after downloading zipfile.
+Please let me know if this is the issue that might be causing this bug or if there is something I am missing. 
+(Also if possible do tell me what should I do if I see similar issue like this on github again 😅 and let the repositor owner know the issue with the files)
+And thanks a lot for your contribution, Time and everything and reading the my issue  
